@@ -1,24 +1,23 @@
 ---
 layout: page
-title: About the Theme
+title: About Dino92
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2023-02-09
 comments: false
 ---
     
-<center><a href="https://dino92-ys.github.io/dino92-ys/"><b>Dino92's Archive</b></a> <b>데이터 엔지니어로 한 걸음 씩.</b></center>
+<center><a href="https://dino92-ys.github.io/dino92-ys/"><b>About Dino92</b></a> <b>데이터 엔지니어로 한 걸음 씩.</b></center>
 
-## Features
+## Experience
 * Minimal, you can focus on your content
 * Responsive
 * Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+
+## Project
+* ETC
+
+## SKILL
+* ETC
 
 ## Preview
 

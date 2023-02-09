@@ -1,7 +1,7 @@
 # Site
 title:              Dino92's Archive
 bio:                '데이터 엔지니어로 한 걸음씩.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "This is Dino92's Archive"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/dino.png'
@@ -40,17 +40,17 @@ disqus_shortname:   taylantatli
 #email:
 #twitter:            username
 #facebook:           username
-github-url:         username
+github-url:         dino92-ys
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          yeongseon Lee
 #xing:              username
-instagram:          username
+instagram:          dino92_ys
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
