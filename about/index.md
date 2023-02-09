@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="https://github.com/dino92-ys/dino92-ys.git"><b>Dino92's Archive</b></a> <b>데이터 엔지니어로 한 걸음 씩.</b></center>
+<center><a href="https://dino92-ys.github.io/dino92-ys/"><b>Dino92's Archive</b></a> <b>데이터 엔지니어로 한 걸음 씩.</b></center>
 
 ## Features
 * Minimal, you can focus on your content
