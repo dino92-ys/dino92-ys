@@ -7,7 +7,7 @@ words_per_minute:   200
 logo:               'assets/img/dino.png'
 background:         'assets/img/bck.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
+locale:             ko-KR
 url:                https://dino92-ys.github.io/dino92-ys/
 
 # Jekyll

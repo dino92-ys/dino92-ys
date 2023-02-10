@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Dino92
+title: Dino92
 tags: [about, Jekyll, resume]
 date: 2023-02-09
 comments: false
