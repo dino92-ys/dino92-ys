@@ -1,23 +1,45 @@
 ---
 layout: page
 title: About Dino92
-tags: [about, Jekyll, theme, moon]
+tags: [about, Jekyll, resume]
 date: 2023-02-09
 comments: false
 ---
-    
-<center><a href="https://dino92-ys.github.io/dino92-ys/"><b>About Dino92</b></a> <b>데이터 엔지니어로 한 걸음 씩.</b></center>
+<center>
+<h1>
+<em>Resume</em>
+</h1>
+</center>
+<br>
+<em>Name:</em> 이영선
 
-## Experience
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
+<br>
+
+## Project
+* 2020.03 - 2021.01 : SSCL(포르쉐 딜러사), 한성자동차
+    * SAP BO - ETL
+    * SAP BI Tool - Visualization(시각화)
+    * JAVA Spring - WEB
+* 2021.02 : 중앙여론심의위원회
+    * EGOV - WEB
+* 2021.03 - 2021.06 : 한국동서발전
+    * Pentaho Kettle 기반 프로그램 - ETL
+    * TABLEAU - Visualization(시각화)
+* 2021.07 - 2021.08 : SQDA(람보르기니 딜러사)
+    * SAP BI - ETL & DATA Migration
+    * JAVA Spring - WEB
+* 2022.01 - 2022.05 : LG 전자 데이터 품질 진단 프로젝트
+    * DQ# - POC & 품질 진단 프로젝트
+* 2022.07 - 2022.12 : NH농협손해보험 농작물 재해 보험 전산 시스템 고도화 프로젝트
+    * SAP BI - Visualization(시각화)
+    * 유니버스 41개 (정형, 비정형 리포트 대상 포함), 정형 리포트 17개, 비정형 리포트
 
 ## Project
 * ETC
 
 ## SKILL
 * ETC
+
 
 ## Preview
 
