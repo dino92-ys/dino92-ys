@@ -11,8 +11,9 @@ comments: false
 </h1>
 </center>
 <br>
+<h2>
 <em>Name:</em> 이영선
-
+</h2>
 <br>
 
 ## Project
@@ -34,13 +35,17 @@ comments: false
     * SAP BI - Visualization(시각화)
     * 유니버스 41개 (정형, 비정형 리포트 대상 포함), 정형 리포트 17개, 비정형 리포트
 
-## Project
-* ETC
-
 ## SKILL
-* ETC
+* JAVA
+    * Spring
+    * EGOV
+* SAP BO - ETL
+* Pentaho spoon - ETL
+* SAP BI - Visualization(시각화)
+* TABLEAU - Visualization(시각화)
+* DQ# - 데이터 품질
 
-
+<!--
 ## Preview
 
 {% capture images %}
@@ -56,3 +61,4 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+-->
