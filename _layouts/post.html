@@ -1,44 +1,49 @@
 ---
-layout: default
+layout: compress
 ---
-{% include calculate_relative_base.html %}
-{% capture post_url %}{{ relativebase }}{{ page.url }}{% endcapture %}
-{% assign post_url = post_url | replace: "//", "/" %}
-<section class="hidden">
-  <div class="post">
-      <a  class="post-list-title" href="{{ post_url }}">{{ page.title }}</a>
-      {% include post_meta.html type="post-card-meta" %}
-        <div class="post-excerpt">
-            {{ page.content | markdownify | strip_newlines | truncatewords: 100 }}<a class="read-more" href="{{ post_url }}"> read more</a>
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+<head>
+    {% include head.html %}
+</head>
+<body>
+    {% include nav.html %}
+    <!-- Header -->
+    <header class="header" role="banner">
+        <div class="wrapper animated fadeIn">
+            <div class="content">
+                <div class="post-title {% if page.feature %} feature {% endif %}">
+                    <h1>{{ page.title }}</h1>
+                    <h4>{{ page.date | date_to_string }}</h4>
+                    {% if site.reading_time %}
+                    <p class="reading-time">
+                      <i class="fa fa-clock-o"></i>
+                      {% include read-time.html %}
+                    </p><!-- /.entry-reading-time -->
+                    {% endif %}
+                    {% if page.project %}
+                    <a class="btn zoombtn" href="{{site.url}}/projects/">
+                    {% else %}
+                    <a class="btn zoombtn" href="{{site.url}}/posts/">
+                    {% endif %}
+                        <i class="fa fa-chevron-left"></i>
+                    </a>
+                </div>
+                {{ content }}
+                <div class="entry-meta">
+                {% include meta.html %}
+                </div>
+            </div>
         </div>
-  </div>
-</section>
-<div class="flex-container transparent">
-  {% include header.html %}
-  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    {% include schema-meta.html %}
-    <div class="page-image">
-      <div class="cover-image" style="background: url('{{ relativebase }}assets/img/{{ page.img }}') center no-repeat; background-size: cover;"></div>
-    </div>
-    <div class="wrapper">
-      <div class="page-content">
-        <div class="header-page">
-          <h1 class="page-title">{{ page.title }}</h1>
-          {% include post_meta.html type="post-page-meta" %}
-        </div>
-        {% include sidebar.html context="post" class="side" id="sidebar" %}
-        {% if page.toc %}{% include sidebar-toc.html %}{% endif %}
-        {% include github-button.html %}
-        {{page.content | markdownify}}
-        {% include sidebar.html context="post" class="inline" id="post-end" %}
-        <div class="separator"></div>
-        {% include author-box.html %}
-        {% include recent-post.html %}
-        {% include newsletter.html %}
-        {% include comments.html %}
-      </div>
-    </div> <!-- End Wrapper -->
-  </article>
-  {% include search.html %}
-  {% include footer.html %}
-</div>
+        {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
+    </header>
+    {% include scripts.html %}
+    {% if site.mathjax == true %}
+    <!-- MathJax -->
+    <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    {% endif %}
+</body>
+</html>
