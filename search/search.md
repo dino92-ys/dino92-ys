@@ -1,5 +1,5 @@
 ---
 title: Search
 layout: search
-parmalink: search
+#parmalink: search
 ---
