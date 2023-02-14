@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Dino92
-tags: [about, Jekyll, resume]
+tags: [resume]
 date: 2023-02-09
 comments: false
 ---
@@ -13,6 +12,7 @@ comments: false
 <br>
 <h2>
 <em>Name:</em> 이영선
+<em>Date:</em> 2023-02-09
 </h2>
 <br>
 
