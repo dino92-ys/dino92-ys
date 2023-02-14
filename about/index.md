@@ -5,16 +5,20 @@ date: 2023-02-09
 comments: false
 ---
 <center>
-<h1>
-<em>Resume</em>
-</h1>
+    <h1>
+        <em>이력서</em>
+    </h1>
 </center>
 <br>
-<h2>
-<em>Name:</em> 이영선
-<em>Date:</em> 2023-02-09
-</h2>
-<br>
+<div style="float: right">
+    <h3><em>Update Date:</em> 2023-02-09</h3>
+</div>
+## <em>이름:     </em> 이영선
+## <em>생년월일: </em> 1992-06-30
+## <em>자격증</em>
+* 정보처리기사
+* SQLD
+* DAsP 
 
 ## Project
 * 2020.03 - 2021.01 : SSCL(포르쉐 딜러사), 한성자동차
