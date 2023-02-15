@@ -1,13 +1,18 @@
 ---
 layout: post
-title:  "Markdown Syntax"
-date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title:  "Programming Model"
+date:   2023-02-15
+excerpt: "In computing and graph theory, a dynamic connectivity structure is a data structure that dynamically maintains information about the connected components of a graph."
 tag:
-- sample
-- test
+- argorithm
 comments: true
 ---
+
+
+## Reference
+- https://algs4.cs.princeton.edu/
+
+<!-- Reference
 
 ## HTML Elements
 
@@ -106,4 +111,4 @@ Press <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> to move your car. **Midto
 ## Notices
 
 **Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
+{: .notice} -->
