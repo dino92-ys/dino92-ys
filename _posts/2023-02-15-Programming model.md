@@ -6,8 +6,7 @@ excerpt: "In computing and graph theory, a dynamic connectivity structure is a d
 tag:
 - argorithm
 comments: true
----
-
+--- 
 
 ## Reference
 - https://algs4.cs.princeton.edu/

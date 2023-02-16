@@ -1,15 +1,20 @@
 ---
 layout: post
-title:  ""
+title:  "Data Engineer"
 date:   2023-02-16
-excerpt: "In computing and graph theory, a dynamic connectivity structure is a data structure that dynamically maintains information about the connected components of a graph."
+excerpt: "Data Engineer is people who develop and maintain data architectures and make data"
 tag:
 - Data Engineering
 comments: true
 ---
+## Data Engineer
+Data Engineering means convert raw data into usable data.
+데이터 엔지니어링은 row data를 사용 가능한 데이터로 변환하는 것이다.
 
+ 
 
 ## Reference
+https://learning.edx.org/course/course-v1:IBM+DB0100EN+1T2021/home
 
 <!-- Reference
 
