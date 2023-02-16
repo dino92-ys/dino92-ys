@@ -1,16 +1,15 @@
 ---
 layout: post
-title:  "Ex"
-date:   2023-02-15
-excerpt: "Ex"
+title:  ""
+date:   2023-02-16
+excerpt: "In computing and graph theory, a dynamic connectivity structure is a data structure that dynamically maintains information about the connected components of a graph."
 tag:
-- Ex
+- Data Engineering
 comments: true
 ---
 
 
 ## Reference
-- 
 
 <!-- Reference
 
