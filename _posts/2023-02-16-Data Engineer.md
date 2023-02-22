@@ -1,17 +1,16 @@
 ---
 layout: post
 title:  "Data Engineer"
-date:   2023-02-16
+date:   2023-02-22
 excerpt: "Data Engineer is people who develop and maintain data architectures and make data"
 tag:
 - Data Engineering
 comments: true
 ---
 ## Data Engineer
-Data Engineering means convert raw data into usable data.
-데이터 엔지니어링은 row data를 사용 가능한 데이터로 변환하는 것이다.
-
+데이터 엔지니어링은 데이터 인프라 및 플랫폼을 설계, 구축, 유지 관리 작업이다. 이런 데이터 인프라에는 데이터베이스, 빅데이터 리포지토리, 또한 이러한 시스템 간 변환과 데이터 이동을 위한 데이터 파이프라인을 포함할 수 있다. 
  
+
 
 ## Reference
 https://learning.edx.org/course/course-v1:IBM+DB0100EN+1T2021/home
