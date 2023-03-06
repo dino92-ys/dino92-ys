@@ -8,7 +8,17 @@ tag:
 comments: true
 ---
 ## Data Engineer
-데이터 엔지니어링은 데이터 인프라 및 플랫폼을 설계, 구축, 유지 관리 작업이다. 이런 데이터 인프라에는 데이터베이스, 빅데이터 리포지토리, 또한 이러한 시스템 간 변환과 데이터 이동을 위한 데이터 파이프라인을 포함할 수 있다. 
+- Data, that is available in a host of differenct formats, structures, and sources.
+- Enterprise Data Environment, in which raw data is staged so it can be organized, cleaned, and optimized for use by end-users.
+- End-users, such as business stakeholders, analysts, and programmers who consume data for various purposes.
+
+Emerging technologies such as Cloud Computing, Machine Learning, and Big Data, are continually reshaping the data ecosystem and the possibilities it offers.
+
+Data Engineers, DataAnalysts, Data Scientists, Business Analysts, and Business Intelligence Analysts, all play a vital role in the ecosystem for deriving insights and business results from data.
+
+The goal of Data Engineering is to make quality data available for analytics and decision-making. And it does this by collecting raw source data, processing data so it becomes usable, sotring data, and making quality data available to users securely.
+
+The goal of data engineering is that make quality data available for fact-finding and business decision-making.
  
 ## Reference
 https://learning.edx.org/course/course-v1:IBM+DB0100EN+1T2021/home
