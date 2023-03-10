@@ -18,7 +18,9 @@ Data Engineers, DataAnalysts, Data Scientists, Business Analysts, and Business I
 
 The goal of Data Engineering is to make quality data available for analytics and decision-making. And it does this by collecting raw source data, processing data so it becomes usable, sotring data, and making quality data available to users securely.
 
-The goal of data engineering is that make quality data available for fact-finding and business decision-making.
+The goal of data engineering is that to make quality data available for fact-finding and business decision-making.
+
+
  
 ## Reference
 https://learning.edx.org/course/course-v1:IBM+DB0100EN+1T2021/home
