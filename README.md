@@ -3,4 +3,5 @@
 <a href="https://dino92-ys.github.io/dino92-ys/about/">
     Blog 입니다.
 </a>
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bbd132)](https://solved.ac/bbd132)
 </div>
