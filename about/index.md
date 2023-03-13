@@ -11,7 +11,7 @@ comments: false
 </center>
 <br>
 <div style="float: right">
-    <h3><em>Update Date:</em> 2023-02-09</h3>
+    <h3><em>Update Date:</em> 2023-03-13</h3>
 </div>
 ## <em>이름:     </em> 이영선
 ## <em>생년월일: </em> 1992-06-30
@@ -19,6 +19,11 @@ comments: false
 * 정보처리기사
 * SQLD
 * DAsP 
+
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bbd132)](https://solved.ac/bbd132)
+
 
 ## Project
 * 2020.03 - 2021.01 : SSCL(포르쉐 딜러사), 한성자동차
