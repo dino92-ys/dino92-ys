@@ -20,9 +20,6 @@ comments: false
 * SQLD
 * DAsP 
 
-## <em>백준
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bbd132)](https://solved.ac/bbd132)
-
 ## Project
 * 2020.03 - 2021.01 : SSCL(포르쉐 딜러사), 한성자동차
     * SAP BO - ETL
@@ -51,6 +48,10 @@ comments: false
 * SAP BI - Visualization(시각화)
 * TABLEAU - Visualization(시각화)
 * DQ# - 데이터 품질
+
+
+## <em>백준
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bbd132)](https://solved.ac/bbd132)
 
 <!--
 ## Preview
