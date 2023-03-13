@@ -20,11 +20,8 @@ comments: false
 * SQLD
 * DAsP 
 
-
 ## <em>백준
-<Left>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bbd132)](https://solved.ac/bbd132)
-</Left>
 
 ## Project
 * 2020.03 - 2021.01 : SSCL(포르쉐 딜러사), 한성자동차
