@@ -6,19 +6,19 @@ comments: false
 ---
 <center>
     <h1>
-        <em>이력서</em>
+        이력서
     </h1>
 </center>
 <br>
 <div style="float: right">
-    <h3><em>Update Date:</em> 2023-03-13</h3>
+    <h3><em>Update Date:</em> 2023-03-21</h3>
 </div>
-## <em>이름:     </em> 이영선
-## <em>생년월일: </em> 1992-06-30
-## <em>학교/전공: </em> 
+## 이름:      이영선
+## 생년월일:  1992-06-30
+## 학교/전공:  
     - 학점은행제/컴퓨터공학
     - 조선대학교/법학
-## <em>자격증</em>
+## 자격증
 * 정보처리기사
 * SQLD
 * DAsP 
@@ -53,7 +53,7 @@ comments: false
 * DQ# - 데이터 품질
 
 
-## <em>백준
+## 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bbd132)](https://solved.ac/bbd132)
 
 <!--
