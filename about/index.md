@@ -11,11 +11,13 @@ comments: false
 </center>
 <br>
 <div style="float: right">
-    <h3><em>Update Date:</em> 2023-03-21</h3>
+    <h3><em>Update Date:</em> 2023-05-21</h3>
 </div>
 ## 이름:      이영선
 ## 생년월일:  1992-06-30
-## 학교/전공(졸업년도): 학점은행제/컴퓨터공학(2022), 조선대학교/법학(2017)
+## 학교/전공(졸업년도): 
+##   학점은행제/컴퓨터공학(2022)
+##   조선대학교/법학(2017)
     
 ## 자격증
 * 정보처리기사
@@ -30,10 +32,10 @@ comments: false
 * 2021.02 : 중앙여론심의위원회
     * EGOV - WEB
 * 2021.03 - 2021.06 : 한국동서발전
-    * Pentaho Kettle 기반 프로그램 - ETL
+    * Pentaho Spoon 기반 - ETL
     * TABLEAU - Visualization(시각화)
 * 2021.07 - 2021.08 : SQDA(람보르기니 딜러사)
-    * SAP BI - ETL & DATA Migration
+    * SAP BO - ETL & DATA Migration
     * JAVA Spring - WEB
 * 2022.01 - 2022.05 : LG 전자 데이터 품질 진단 프로젝트
     * DQ# - POC & 품질 진단 프로젝트
