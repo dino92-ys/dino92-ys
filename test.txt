@@ -1,0 +1,4 @@
+Dell EMC Unity XT 480H
+
+Disk: 1.8TB SAS * 17EA (Usable 18TB)
+
