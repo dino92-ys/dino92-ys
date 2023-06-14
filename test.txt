@@ -1,6 +1,0 @@
-Logcops
-Hiware
-Maxguage
-Watchall
-SafeIndentity
-                        
