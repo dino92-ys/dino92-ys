@@ -10,7 +10,7 @@ comments: false
 </center>
 <br>
 <div style="float: right">
-    <h3><em>Update Date:</em> 2023-07-18</h3>
+    <h3><em>Update Date:</em> 2023-08-18</h3
 </div>
 
 ## 이름:      이영선
@@ -23,6 +23,10 @@ comments: false
 
 ## Project - 4년차(2023)
 
+* 2023.08 - 2024. : 한국환경공단 고도화 프로젝트
+    * 모델링
+    * ETL
+    * 표준화
 * 2022.07 - 2022.12 : NH농협손해보험 농작물 재해 보험 전산 시스템 고도화 프로젝트
     * SAP BI - Visualization(시각화)
     * 유니버스 41개 (정형, 비정형 리포트 대상 포함), 정형 리포트 17개, 비정형 리포트
