@@ -1,25 +1,44 @@
 ---
 layout: post
-title:  "CS 전공 지식 관련"
-date:   2023-06-13
-excerpt: ""
+title:  "Fundamentals of Data Engineering"
+date:   2023-02-22
+excerpt: "데이터 엔지니어링의 기초"
 tag:
-- Computer Science
+- Data Engineering
 comments: true
 ---
-## 네트워크
+해당 내용을 공부하며 작성한 내용입니다.
 
-네트워크 성능 분석 명령어
-애플리케이션 코드상에는 전혀 문제가 없는데 사용자가 서비스로부터 데이터를 가져오지 못하는 상황이 발생되기도 하며, 이는 네트워크 병목 현상일 가능성이 있다. 네트워크 병목 현상의 주된 원인은 몇 가지가 있다.
+## Table of Contents
 
-- 네트워크 대역폭
-- 네트워크 토폴로지
-- 서버 CPU, 메모리 사용량
-- 비효율적이 네트워크 구성
+1. 데이터 엔지니어링의 설명
+2. 데이터 엔지니어링의 라이프사이클
+3. 좋은 데이터 아키텍처의 디자인
+4. 데이터 엔지니어링 라이프사이클 전반에 걸친 기술 선택
+5. 소스 시스템에서의 데이터 세대
+6. 저장공간
+7. Ingestion(섭취)
+8. 쿼리, 모델링, 그리고 변환
+9. 분석, 머신러닝, 그리고 리버스 ETL을 위한 데이터 제공
+10. 보안과 프라이버시
+11. 데이터 인지니어링의 미래
 
-### Reference
+## Preface
 
-1. []
+이 책은 특별한 틀, 기술, 또는 플랫폼이 아니라 데이터 엔지니어링 라이프사이클에 대한 전반적인 내용을 다루고 있다.
+
+## 데이터 엔지니어링의 정의
+
+분석과 머신 러닝같은 최종 사용 방식을 도와주는 Raw data와 일관된 정보를 발전, 실행, 유지하는 시스템과 프로세스를 말한다. 데이터 엔지니어링은 보안, 데이터 매니지먼트, DataOps, data architecture, Orchestration, 소프트 엔지니어링과 교차점이 있다.
+
+## 데이터 엔지니어링 Lifecycle
+
+
+
+## Reference
+
+ Joe Reis & Matt housley - Fundamentals of Data Engineering(OREILLY)
+
 <!-- Reference
 
 ## HTML Elements
@@ -119,5 +138,4 @@ Press <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> to move your car. **Midto
 ## Notices
 
 **Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice} 
--->
+{: .notice} -->
