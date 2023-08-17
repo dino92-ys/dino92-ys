@@ -33,7 +33,7 @@ comments: true
 
 ## 데이터 엔지니어링 Lifecycle
 
-
+데이터 엔지니어링 Lifecycle은 기술에서 나와 데이터 그 자체와 최종 목적을 향해 제공해야 하는 것으로 바꾸는 것을 대화해야 한다.
 
 ## Reference
 
