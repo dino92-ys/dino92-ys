@@ -21,30 +21,6 @@ comments: false
 * SQLD
 * DAsP
 
-## Project - 4년차(2023)
-
-* 2023.08 - 2024 : 한국환경공단 고도화 프로젝트
-    * 모델링
-    * ETL
-    * 표준화
-* 2022.07 - 2022.12 : NH농협손해보험 농작물 재해 보험 전산 시스템 고도화 프로젝트
-    * SAP BI - Visualization(시각화)
-    * 유니버스 41개 (정형, 비정형 리포트 대상 포함), 정형 리포트 17개, 비정형 리포트
-* 2022.01 - 2022.05 : LG 전자 데이터 품질 진단 프로젝트
-    * DQ# - POC & 품질 진단 프로젝트
-* 2021.07 - 2021.08 : SQDA(람보르기니 딜러사)
-    * SAP BO - ETL & DATA Migration
-    * JAVA Spring - WEB
-* 2021.03 - 2021.06 : 한국동서발전
-    * Pentaho Spoon 기반 - ETL
-    * TABLEAU - Visualization(시각화)
-* 2021.02 : 중앙여론심의위원회
-    * EGOV - WEB
-* 2020.03 - 2021.01 : SSCL(포르쉐 딜러사), 한성자동차
-    * SAP BO - ETL
-    * SAP BI Tool - Visualization(시각화)
-    * JAVA Spring - WEB
-
 ## SKILL
 
 * JAVA
