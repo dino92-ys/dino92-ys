@@ -20,13 +20,10 @@ comments: true
 
 
 1. Docker 설치
-  * 터미널에서 java -version 확인 후, 1.8 이하로 진행.
-    * 하둡이 버전 3.0.x~ 3.2.x까지 자바 8만 지원. 
 
 ### Reference
 
-1. 하둡 설치 - [https://thewayaboutme.tistory.com/523]
-2. 하둡 설치 - [https://thewayaboutme.tistory.com/523]
+1. Rocky Linux 설치
 
 <!-- 
 

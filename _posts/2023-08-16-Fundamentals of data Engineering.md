@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fundamentals of Data Engineering"
-date:   2023-02-22
+date:   2023-08-16
 excerpt: "데이터 엔지니어링의 기초"
 tag:
 - Data Engineering
