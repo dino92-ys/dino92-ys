@@ -1,61 +1,31 @@
 ---
 layout: post
-title:  "Fundamentals of Data Engineering"
-date:   2023-08-16
-excerpt: "데이터 엔지니어링의 기초"
+title:  "MacOS Docker로 Hadoop 구축"
+date:   2023-08-26
+excerpt: ""
 tag:
+- Hadoop
+- Docker
 - Data Engineering
 comments: true
 ---
-해당 내용을 공부하며 작성한 내용입니다.
+## MacOS에 Docker 설치
 
-## Table of Contents
+### Docker란?
 
-1. 데이터 엔지니어링의 설명
-2. 데이터 엔지니어링의 라이프사이클
-3. 좋은 데이터 아키텍처의 디자인
-4. 데이터 엔지니어링 라이프사이클 전반에 걸친 기술 선택
-5. 소스 시스템에서의 데이터 세대
-6. 저장공간
-7. Ingestion(섭취)
-8. 쿼리, 모델링, 그리고 변환
-9. 분석, 머신러닝, 그리고 리버스 ETL을 위한 데이터 제공
-10. 보안과 프라이버시
-11. 데이터 인지니어링의 미래
+리눅스의 응용 프로그램들을 프로세스 격리 기술들을 사용해 컨테이너로 실해하고 관리하는 오픈 소스 프로젝트이다.
+도커 컨테이너는 일종의 소프트웨어를 소프트웨어의 실행에 필요한 모든 것을 포함하는 완전한 파일 시스템 안에 감싼다ㅣ 여기에는 코드, 런타임, 시스템 도구, 시스템 라이브러리 등 서버에 설치되는 모든 것을 아우른다. 이는 실행 중인 환경에 관계 없이 언제나 동일하게 실행될 것을 보증한다.
 
-## Preface
+<img width="479" alt="스크린샷 2023-08-26 오후 1 08 53" src="https://github.com/dino92-ys/dino92-ys/assets/50314000/e6f413d9-cadb-4bde-a65f-4055bac636d6">
 
-이 책은 특별한 틀, 기술, 또는 플랫폼이 아니라 데이터 엔지니어링 라이프사이클에 대한 전반적인 내용을 다루고 있다.
 
-## 데이터 엔지니어링의 정의
+1. Docker 설치
 
-분석과 머신 러닝같은 최종 사용 방식을 도와주는 Raw data와 일관된 정보를 발전, 실행, 유지하는 시스템과 프로세스를 말한다. 데이터 엔지니어링은 보안, 데이터 매니지먼트, DataOps, data architecture, Orchestration, 소프트 엔지니어링과 교차점이 있다.
+### Reference
 
-## 데이터 엔지니어링 Lifecycle
+1. Rocky Linux 설치
 
-데이터 엔지니어링 Lifecycle은 기술에서 나와 데이터 그 자체와 최종 목적을 향해 제공해야 하는 것으로 바꾸는 것을 대화해야 한다.
-
-## Reference
-
- Joe Reis & Matt housley - Fundamentals of Data Engineering(OREILLY)
-
-<!-- Reference
-
-## HTML Elements
-
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+<!-- 
 
 ### Body text
 
@@ -138,4 +108,5 @@ Press <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> to move your car. **Midto
 ## Notices
 
 **Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice} -->
+{: .notice} 
+-->
