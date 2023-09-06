@@ -19,11 +19,12 @@ comments: true
 <img width="479" alt="스크린샷 2023-08-26 오후 1 08 53" src="https://github.com/dino92-ys/dino92-ys/assets/50314000/e6f413d9-cadb-4bde-a65f-4055bac636d6">
 
 
-1. Docker 설치
+## Docker 설치
+
+## Rocky Linux 설치
 
 ### Reference
 
-1. Rocky Linux 설치
 
 <!-- 
 
