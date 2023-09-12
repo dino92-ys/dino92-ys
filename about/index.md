@@ -24,10 +24,10 @@ comments: false
 
 ## Project - 4년차(2023)
 
-* 2023.08 - 2024 : 한국환경공단 고도화 프로젝트
-    * 모델링
-    * ETL
+* 2023.08 - 2024 : 한국환경공단 자동차환경 빅데이터 구축 3차
+    * Data Stream - ETL
     * 표준화
+    * 모델링
 * 2022.07 - 2022.12 : NH농협손해보험 농작물 재해 보험 전산 시스템 고도화 프로젝트
     * SAP BI - Visualization(시각화)
     * 유니버스 41개 (정형, 비정형 리포트 대상 포함), 정형 리포트 17개, 비정형 리포트
@@ -54,11 +54,10 @@ comments: false
 * ETL
   * SAP Data Service
   * Pentaho spoon
+  * Data Stream
 * Visualization(시각화)
   * TABLEAU
   * SAP BO BI
-* 데이터 품질
-  *  DQ#
 
 ## 백준
 
