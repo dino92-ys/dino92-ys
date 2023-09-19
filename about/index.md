@@ -51,10 +51,11 @@ comments: false
 * JAVA
     * Spring
     * EGOV
+* Python
 * ETL
   * SAP Data Service
   * Pentaho spoon
-  * Data Stream
+  * Tera Stream
 * Visualization(시각화)
   * TABLEAU
   * SAP BO BI
