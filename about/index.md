@@ -46,6 +46,9 @@ comments: false
     * SAP BI Tool - Visualization(시각화)
     * JAVA Spring - WEB
 
+## Toy Project
+
+* 
 ## SKILL
 
 * JAVA
