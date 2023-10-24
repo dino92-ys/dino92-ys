@@ -11,7 +11,7 @@ comments: false
 </center>
 <br>
 <div style="float: right">
-    <h3><em>Update Date:</em> 2023-08-17</h3>
+    <h3><em>Update Date:</em> 2023-10-24</h3>
 </div>
 
 ## 이름:      이영선
@@ -21,6 +21,7 @@ comments: false
 * 정보처리기사
 * SQLD
 * DAsP
+* AWS - SAA-03 (준비 중)
 
 ## Project - 4년차(2023)
 
@@ -48,7 +49,8 @@ comments: false
 
 ## Toy Project
 
-* 
+* Kafka
+
 ## SKILL
 
 * JAVA

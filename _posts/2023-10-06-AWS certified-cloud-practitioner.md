@@ -16,7 +16,7 @@ AWS 인증 공식 연습 문제 세트에는 AWS 인증 시험 스타일을 보�
 AWS Cloud Practitioner Essentials course에는 1-10개의 모듈이 있으며, AWS Cloud concepts, AWS services, security, architecture, pricing, and support에 대한 교육을 들을 수 있습니다.
 
 ### Reference
-1. 예제 - [https://test.com]
+1. 예제 - [https://aws.amazon.com/ko/certification/certified-solutions-architect-associate/]
 
 <!-- 
 
