@@ -30,14 +30,22 @@ comments: false
 
 ## Project
 
+### 2023
+
 * 2023.08 - 2024 : 한국환경공단 자동차환경 빅데이터 구축 3차
     * Data Stream - ETL
     * 표준화
+
+### 2022
+
 * 2022.07 - 2022.12 : NH농협손해보험 농작물 재해 보험 전산 시스템 고도화 프로젝트
     * SAP BI - Visualization(시각화)
     * 유니버스 41개, 정형 리포트 17개, 비정형 리포트
 * 2022.01 - 2022.05 : LG 전자 데이터 품질 진단 프로젝트
     * DQ# - POC & 품질 진단 프로젝트
+
+### 2021
+
 * 2021.07 - 2021.08 : SQDA(람보르기니 딜러사)
     * SAP BO - ETL & DATA Migration
     * JAVA Spring - WEB
@@ -46,6 +54,9 @@ comments: false
     * TABLEAU - Visualization(시각화)
 * 2021.02 : 중앙여론심의위원회
     * EGOV - WEB
+
+### 2020
+    
 * 2020.03 - 2021.01 : SSCL(포르쉐 딜러사), 한성자동차
     * SAP BO - ETL
     * SAP BI Tool - Visualization(시각화)
