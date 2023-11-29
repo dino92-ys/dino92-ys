@@ -11,27 +11,31 @@ comments: false
 </center>
 <br>
 <div style="float: right">
-    <h3><em>Update Date:</em> 2023-10-24</h3>
+    <h3><em>Update Date:</em> 2023-11-29</h3>
 </div>
 
-## 이름:      이영선
+## About Me
 
-## 자격증
+- 모델링, 데이터 파이프라인, AWS 등 데이터 흐름에 관한 관심이 있습니다.
+- 데이터 분석에 관하여 관심이 있습니다.
+- 기술적인 능력도 중요하지만, 커뮤니케이션 또한 중요하다고 생각합니다.
+- 데이터에 관하여 깊은 능력을 가진 개발자가 되고 싶습니다.
 
-* 정보처리기사
-* SQLD
-* DAsP
-* AWS - SAA-03 (준비 중)
+## Education
 
-## Project - 4년차(2023)
+학점 은행제 - 컴퓨터 공학
+2022.08 졸업
+조선대학교 - 법학과
+2017.09 졸업
+
+## Project - 2023
 
 * 2023.08 - 2024 : 한국환경공단 자동차환경 빅데이터 구축 3차
     * Data Stream - ETL
     * 표준화
-    * 모델링
 * 2022.07 - 2022.12 : NH농협손해보험 농작물 재해 보험 전산 시스템 고도화 프로젝트
     * SAP BI - Visualization(시각화)
-    * 유니버스 41개 (정형, 비정형 리포트 대상 포함), 정형 리포트 17개, 비정형 리포트
+    * 유니버스 41개, 정형 리포트 17개, 비정형 리포트
 * 2022.01 - 2022.05 : LG 전자 데이터 품질 진단 프로젝트
     * DQ# - POC & 품질 진단 프로젝트
 * 2021.07 - 2021.08 : SQDA(람보르기니 딜러사)
@@ -56,7 +60,6 @@ comments: false
 * JAVA
     * Spring
     * EGOV
-* Python
 * ETL
   * SAP Data Service
   * Pentaho spoon
@@ -65,11 +68,19 @@ comments: false
   * TABLEAU
   * SAP BO BI
 
+## Certificates
+
+* 정보처리기사
+* SQLD
+* DAsP
+* AWS - SAA-03 (준비 중)
+
+<!--
 ## 백준
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bbd132)](https://solved.ac/bbd132)
 
-<!--
+
 ## Preview
 
 {% capture images %}
