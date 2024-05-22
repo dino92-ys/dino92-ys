@@ -11,7 +11,7 @@ comments: false
 </center>
 <br>
 <div style="float: right">
-    <h3><em>Update Date:</em> 2023-11-29</h3>
+    <h3><em>Update Date:</em> 2024-05-22</h3>
 </div>
 
 ## About Me
@@ -30,21 +30,15 @@ comments: false
 
 ## Project
 
-### 2023
-
-* 2023.08 - 2024 : 한국환경공단 자동차환경 빅데이터 구축 3차
-    * Data Stream - ETL
-    * 표준화
-
-### 2022
+* 2023.08 - 2024.05 : 한국환경공단 자동차환경 빅데이터 구축 3차
+    * JAVA - 화면 생성 (20개)
+    * EDB, EXASOl - 쿼리 작성(50여개)
 
 * 2022.07 - 2022.12 : NH농협손해보험 농작물 재해 보험 전산 시스템 고도화 프로젝트
     * SAP BI - Visualization(시각화)
     * 유니버스 41개, 정형 리포트 17개, 비정형 리포트
 * 2022.01 - 2022.05 : LG 전자 데이터 품질 진단 프로젝트
     * DQ# - POC & 품질 진단 프로젝트
-
-### 2021
 
 * 2021.07 - 2021.08 : SQDA(람보르기니 딜러사)
     * SAP BO - ETL & DATA Migration
@@ -55,8 +49,6 @@ comments: false
 * 2021.02 : 중앙여론심의위원회
     * EGOV - WEB
 
-### 2020
-    
 * 2020.03 - 2021.01 : SSCL(포르쉐 딜러사), 한성자동차
     * SAP BO - ETL
     * SAP BI Tool - Visualization(시각화)
@@ -84,11 +76,10 @@ comments: false
 * 정보처리기사
 * SQLD
 * DAsP
-* AWS - SAA-03 (준비 중)
 
 ### Contact Me
 
-> dldudtjs96@naver.com
+> [https://www.instagram.com/dino92_ys/]
 
 <!--
 ## 백준
