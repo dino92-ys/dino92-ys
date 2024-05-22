@@ -79,7 +79,7 @@ comments: false
 
 ### Contact Me
 
-> [https://www.instagram.com/dino92_ys/]
+> https://www.instagram.com/dino92_ys/
 
 <!--
 ## 백준
