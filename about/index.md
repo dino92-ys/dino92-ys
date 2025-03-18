@@ -6,7 +6,7 @@ comments: false
 
 # 이력서  
 
-## Update Date:2025-03-18  
+<div style="text-align: right"> Update Date:2025-03-18 </div>
 
 ## About Me  
 
