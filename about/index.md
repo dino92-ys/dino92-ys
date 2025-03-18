@@ -4,11 +4,11 @@ tags: [resume]
 comments: false
 ---
 
-#이력서
-###Update Date:2025-03-18
+# 이력서  
 
+## Update Date:2025-03-18  
 
-## About Me
+## About Me  
 
 - 데이터 분석에 관하여 관심이 있습니다.
 - 인공지능, 알고리즘을 공부하고 있습니다.
