@@ -4,15 +4,9 @@ tags: [resume]
 comments: false
 ---
 
-<center>
-    <h1>
-        이력서
-    </h1>
-</center>
-<br>
-<div style="float: right">
-    <h3><em>Update Date:</em> 2025-03-18</h3>
-</div>
+#이력서
+###Update Date:2025-03-18
+
 
 ## About Me
 
@@ -81,19 +75,17 @@ comments: false
 
 ## Certificates
 
-* 정보처리기사
-* SQLD
-* DAsP
+- 정보처리기사
+- SQLD
+- DAsP
 
 ### Contact Me
 
-> https://www.instagram.com/dino92_ys/
-
+> <https://www.instagram.com/dino92_ys/>
 
 ## 백준
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bbd132)](https://solved.ac/bbd132)
-
 
 <!-- 
 ## Getting Started
