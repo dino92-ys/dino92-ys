@@ -16,8 +16,8 @@ comments: false
 
 ## About Me
 
-- 모델링, 데이터 파이프라인, AWS 등 데이터 흐름에 관한 관심이 있습니다.
 - 데이터 분석에 관하여 관심이 있습니다.
+- 인공지능, 알고리즘을 공부하고 있습니다.
 - 기술적인 능력도 중요하지만, 커뮤니케이션 또한 중요하다고 생각합니다.
 - 데이터에 관하여 깊은 능력을 가진 개발자가 되고 싶습니다.
 
@@ -29,6 +29,12 @@ comments: false
     * 2017.09 졸업
 
 ## Project
+
+프로젝트명 : 한국은행 CBDC 모니터링
+연계/소속회사 : 씨씨미디어(주)  
+수행 기간 : 2025.03 - 
+주요 역할 : 프로젝트 모니터링
+업무 성과 : 
 
 프로젝트명 : 한국환경공단 자동차환경 빅데이터 구축 4차  
 연계/소속회사 : 씨씨미디어(주)  
@@ -42,7 +48,7 @@ comments: false
 주요 역할 : Data Stream - ETL, 데이터 표준화, SQL 작성  
 업무 성과 : 140 여개 차트 쿼리 작성  
 
-프로젝트명 : NH농협손해보험 농작물 재해 보험 전산 시스템 고도화 프로젝트  
+프로젝트명 : NH농협손해보험 농작물 재해 보험 전산 시스템 고도화 
 연계/소속회사 : 동양시스템즈(주)  
 수행 기간 : 2022.07 - 2022.12  
 주요 역할 : SAP BI - Visualization(시각화), 쿼리 작성  
@@ -84,16 +90,14 @@ comments: false
 > https://www.instagram.com/dino92_ys/
 
 
-
-<!--
 ## 백준
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bbd132)](https://solved.ac/bbd132)
 
 
+<!-- 
 ## Getting Started
-
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Install Moon](https://github.com/TaylanTatli/Moon){: .btn} 
 -->
