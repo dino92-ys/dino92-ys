@@ -4,7 +4,7 @@ tags: [resume]
 comments: false
 ---
 
-<!-- # 이력서   -->
+<div class="center">이력서</div>
 
 <div style="text-align: right"> Update Date:2025-03-18 </div>
 
@@ -42,7 +42,7 @@ comments: false
 주요 역할 : Data Stream - ETL, 데이터 표준화, SQL 작성  
 업무 성과 : 140 여개 차트 쿼리 작성  
 
-프로젝트명 : NH농협손해보험 농작물 재해 보험 전산 시스템 고도화 
+프로젝트명 : NH농협손해보험 농작물 재해 보험 전산 시스템 고도화  
 연계/소속회사 : 동양시스템즈(주)  
 수행 기간 : 2022.07 - 2022.12  
 주요 역할 : SAP BI - Visualization(시각화), 쿼리 작성  
