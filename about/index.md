@@ -4,7 +4,7 @@ tags: [resume]
 comments: false
 ---
 
-<div class="center">이력서</div>
+<div style="text-align: center"> 이력서 </div>
 
 <div style="text-align: right"> Update Date:2025-03-18 </div>
 
