@@ -94,10 +94,10 @@ comments: false
 ## Studying
 
 * **Kaggle**
-    1. Titinic - 분류 (예: 로지스틱 회귀, 랜덤 포레스트 모델 구현 및 성능 평가)
-    2. Space Titinic - 분류 (예: 결측치 처리 및 피처 엔지니어링을 통한 모델 정확도 향상)
-    3. House Price - 회귀 (예: 선형 회귀, XG Boost 모델 적용 및 RMSE 최적화)
-    4. NLP with Disaster tweets - NLP (예: 텍스트 전처리, RNN/LSTM 모델을 활용한 재난 트윗 분류)
+    1. Titinic - 분류 (데이터 전처리, 로지스틱 회귀, 랜덤 포레스트 모델 구현 및 성능 평가)
+    2. Space Titinic - 분류 (결측치 처리 및 피처 엔지니어링을 통한 모델 정확도 향상)
+    3. House Price - 회귀 (선형 회귀, XG Boost 모델 적용)
+    4. NLP with Disaster tweets - NLP 진행 중
 
 ---
 
