@@ -4,13 +4,9 @@ tags: [resume]
 comments: false
 ---
 
----
+<div style="text-align: center"> 이력서 </div>
 
-<h2 align="center"><b>이력서 (Resume)</b></h2>
-<p align="center">데이터 분석가 · 머신러닝 엔지니어 지망</p>
-<p align="right"><em>Last Updated: 2025-10-12</em></p>
-
----
+<div style="text-align: right"> Update Date: 2025-10-12 </div>
 
 ---
 
@@ -97,65 +93,11 @@ comments: false
 
 ## Studying
 
-### 🤖 AI/ML Projects
-
-#### 1. Natural Language Processing with Disaster Tweets
-* **Status**: 🔄 진행 중 (고도화 작업 중)
-* **Period**: 최초: 2025.07 - 2025.08, 고도화: 2025.10
-* **Tech Stack**: Python, Pandas, NLTK, TensorFlow/PyTorch, LSTM
-* **주요 내용**: 
-  - 트위터 텍스트 기반 실제 재난 여부 이진 분류 문제
-  - 텍스트 전처리 파이프라인 구축 (URL 제거, 토크나이징, 임베딩)
-  - LSTM 기반 딥러닝 모델 설계 및 학습
-  - 오분류 케이스 분석을 통한 모델 개선
-* **주요 성과**: 
-  - 정확도 86.88% 달성 (Train Data 기준)
-  - 비유적 표현 vs 실제 재난 구분을 위한 전처리 전략 수립
-  - False Positive/Negative 패턴 분석 완료
-* **링크**: [GitHub](#) | [회고록](#) *(업데이트 예정)*
-
----
-
-#### 2. Housing Prices Competition for Kaggle Learn Users
-* **Status**: ⏸️ 고도화 진행 예정 (2025년 10월 4주 시작)
-* **Period**: 최초: 2025.06 - 2025.07, 고도화: 2025.10
-* **Tech Stack**: Python, Pandas, Scikit-learn, XGBoost
-* **주요 내용**: 
-  - 주택 가격 예측 회귀 문제
-  - 피처 엔지니어링 (방 개수, 위치, 연식 등 상호작용 피처 생성)
-  - 다양한 회귀 모델 비교 (Linear Regression, Ridge, Lasso, XGBoost)
-  - 이상치 탐지 및 처리 전략 수립
-* **주요 성과**: 
-  - 정확도 XX% 달성 (측정 예정)
-  - RMSE 기반 모델 성능 비교 및 최적 모델 선정
-  - 가격 예측 오차가 큰 주택 특성 분석 및 비즈니스 인사이트 도출
-* **링크**: [GitHub](#) | [회고록](#) *(업데이트 예정)*
-* **예상 완료**: 2025년 11월 1주
-
----
-
-#### 3. Titanic - Machine Learning from Disaster
-* **Status**: ⏸️ 재정리 예정 (2025년 11월 2주 시작)
-* **Period**: 최초: 2025.06 - 2025.07, 고도화: 2025.10
-* **Tech Stack**: Python, Pandas, Scikit-learn, Logistic Regression, Random Forest
-* **주요 내용**: 
-  - 타이타닉 승객 생존 여부 예측 이진 분류 문제
-  - 결측치 처리 전략 수립 (Age, Cabin 등)
-  - 생존 요인 분석 및 시각화 (성별, 등급, 나이별 생존율)
-  - 로지스틱 회귀 vs 랜덤 포레스트 성능 비교
-* **주요 성과**: 
-  - 정확도 0.8058% 달성 (Train Data 기준)
-  - "여성과 어린이 먼저" 규칙의 데이터 기반 검증
-  - 클래스 불균형 처리 및 평가 지표 선정 (Accuracy vs F1-Score)
-* **링크**: [GitHub](#) | [회고록](#) *(업데이트 예정)*
-* **예상 완료**: 2025년 11월 2주
-
----
-
-### 📚 Additional Learning Experience
-* **기타 프로젝트**: Fashion-MNIST, Space Titanic 등 총 5개 이상의 Kaggle 프로젝트 진행.
-* **학습 영역**: 분류(Classification), 회귀(Regression), NLP, 컴퓨터 비전 등 다양한 머신러닝 도메인 경험
-* **지속적 학습**: 데이터 전처리, 피처 엔지니어링, 모델 튜닝, 성능 평가 등 ML 파이프라인 전반에 대한 실습 진행
+* **Kaggle**
+    1. Titinic - 분류 (데이터 전처리, 로지스틱 회귀, 랜덤 포레스트 모델 구현 및 성능 평가)
+    2. Space Titinic - 분류 (결측치 처리 및 피처 엔지니어링을 통한 모델 정확도 향상)
+    3. House Price - 회귀 (선형 회귀, XG Boost 모델 적용)
+    4. NLP with Disaster tweets - NLP 진행 중
 
 ---
 
