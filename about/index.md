@@ -4,21 +4,24 @@ tags: [resume]
 comments: false
 ---
 
----
-
-<h2 align="center"><b>이력서 (Resume)</b></h2>
-<p align="center">데이터 분석가 · 머신러닝 엔지니어 지망</p>
-<p align="right"><em>Last Updated: 2025-10-12</em></p>
-
----
+<div align="center">
+  <h1>이력서 (Resume)</h1>
+  <h3>데이터 분석가 · 머신러닝 엔지니어</h3>
+  <p><em>Last Updated: 2025-10-12</em></p>
+</div>
 
 ---
 
 ## About Me
 
-* 데이터 분석에 관하여 깊은 관심을 가지고 있으며, **인공지능**, **알고리즘** 분야를 꾸준히 학습하고 있습니다.
-* 기술적인 역량뿐만 아니라, 원활한 **커뮤니케이션 능력** 또한 중요하다고 생각합니다.
-* 데이터에 관하여 깊이 있는 역량을 갖춘 **데이터 분석가 & 머신러닝 엔지니어 & 데이터 사이언티스트**를 목표로 하고 있습니다.
+데이터 엔지니어링 실무 경험(5년+)을 바탕으로, **데이터 분석가 · 머신러닝 엔지니어**로 성장하고 있습니다.
+
+* **데이터 파이프라인 구축 전문가**: ETL, 데이터 표준화, SQL 쿼리 최적화 경험 (140+ 차트 쿼리 작성)
+* **AI/ML 실전 학습**: Kaggle 프로젝트를 통해 NLP, 회귀, 분류 문제 해결 경험 축적 중
+* **비즈니스 임팩트 중심**: 데이터 시각화 및 대시보드 기획으로 의사결정 지원 (11페이지 화면 기획, 121개 차트)
+* **협업 & 커뮤니케이션**: 다양한 고객사 프로젝트에서 원활한 협업 경험
+
+**목표**: 실무 데이터 처리 역량과 머신러닝 기술을 결합하여, 비즈니스 문제를 AI로 해결하는 **데이터 사이언티스트**
 
 ---
 
@@ -101,7 +104,7 @@ comments: false
 
 #### 1. Natural Language Processing with Disaster Tweets
 * **Status**: 🔄 진행 중 (고도화 작업 중)
-* **Period**: 최초: 2025.07 - 2025.08, 고도화: 2025.10
+* **Period**: 2025.07 - 2025.08 (고도화: 2025.10 진행 중)
 * **Tech Stack**: Python, Pandas, NLTK, TensorFlow/PyTorch, LSTM
 * **주요 내용**: 
   - 트위터 텍스트 기반 실제 재난 여부 이진 분류 문제
@@ -112,13 +115,13 @@ comments: false
   - 정확도 86.88% 달성 (Train Data 기준)
   - 비유적 표현 vs 실제 재난 구분을 위한 전처리 전략 수립
   - False Positive/Negative 패턴 분석 완료
-* **링크**: [GitHub](#) | [회고록](#) *(업데이트 예정)*
+* **링크**: GitHub | 회고록 *(업데이트 예정)*
 
 ---
 
 #### 2. Housing Prices Competition for Kaggle Learn Users
 * **Status**: ⏸️ 고도화 진행 예정 (2025년 10월 4주 시작)
-* **Period**: 최초: 2025.06 - 2025.07, 고도화: 2025.10
+* **Period**: 2025.06 - 2025.07 (고도화: 2025.10 진행 예정)
 * **Tech Stack**: Python, Pandas, Scikit-learn, XGBoost
 * **주요 내용**: 
   - 주택 가격 예측 회귀 문제
@@ -126,17 +129,16 @@ comments: false
   - 다양한 회귀 모델 비교 (Linear Regression, Ridge, Lasso, XGBoost)
   - 이상치 탐지 및 처리 전략 수립
 * **주요 성과**: 
-  - 정확도 XX% 달성 (측정 예정)
   - RMSE 기반 모델 성능 비교 및 최적 모델 선정
   - 가격 예측 오차가 큰 주택 특성 분석 및 비즈니스 인사이트 도출
-* **링크**: [GitHub](#) | [회고록](#) *(업데이트 예정)*
+* **링크**: GitHub | 회고록 *(업데이트 예정)*
 * **예상 완료**: 2025년 11월 1주
 
 ---
 
 #### 3. Titanic - Machine Learning from Disaster
 * **Status**: ⏸️ 재정리 예정 (2025년 11월 2주 시작)
-* **Period**: 최초: 2025.06 - 2025.07, 고도화: 2025.10
+* **Period**: 2025.06 - 2025.07 (고도화: 2025.10 말 진행 예정)
 * **Tech Stack**: Python, Pandas, Scikit-learn, Logistic Regression, Random Forest
 * **주요 내용**: 
   - 타이타닉 승객 생존 여부 예측 이진 분류 문제
@@ -144,16 +146,16 @@ comments: false
   - 생존 요인 분석 및 시각화 (성별, 등급, 나이별 생존율)
   - 로지스틱 회귀 vs 랜덤 포레스트 성능 비교
 * **주요 성과**: 
-  - 정확도 0.8058% 달성 (Train Data 기준)
+  - 정확도 80.58% 달성 (Train Data 기준)
   - "여성과 어린이 먼저" 규칙의 데이터 기반 검증
   - 클래스 불균형 처리 및 평가 지표 선정 (Accuracy vs F1-Score)
-* **링크**: [GitHub](#) | [회고록](#) *(업데이트 예정)*
+* **링크**: GitHub | 회고록 *(업데이트 예정)*
 * **예상 완료**: 2025년 11월 2주
 
 ---
 
 ### 📚 Additional Learning Experience
-* **기타 프로젝트**: Fashion-MNIST, Space Titanic 등 총 5개 이상의 Kaggle 프로젝트 진행.
+* **기타 프로젝트**: Fashion-MNIST (컴퓨터 비전), Space Titanic (분류) 등 총 5개 이상의 Kaggle 대회 참여
 * **학습 영역**: 분류(Classification), 회귀(Regression), NLP, 컴퓨터 비전 등 다양한 머신러닝 도메인 경험
 * **지속적 학습**: 데이터 전처리, 피처 엔지니어링, 모델 튜닝, 성능 평가 등 ML 파이프라인 전반에 대한 실습 진행
 
@@ -161,10 +163,10 @@ comments: false
 
 ## Education
 
-* 학점 은행제 - 컴퓨터 공학 (4.1/4.5)
-  * 2022.08 졸업
-* 조선대학교 - 법학과 (3.4/4.5)
-  * 2017.09 졸업
+* **학점 은행제 - 컴퓨터 공학** (4.1/4.5)
+  * 졸업: 2022.08
+* **조선대학교 - 법학과** (3.4/4.5)
+  * 졸업: 2017.09
 
 ---
 
@@ -176,14 +178,14 @@ comments: false
 
 ---
 
-### Contact Me
-
-> <https://www.instagram.com/dino92_ys/>
-
----
-
-## 백준
+## Algorithm Practice (백준)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bbd132)](https://solved.ac/bbd132)
 
+---
+
+## Contact
+* **Email**: dldudtjs96@naver.com
+* **GitHub**: [github.com/dino92-ys](https://github.com/dino92-ys)
+* **Instagram**: [instagram.com/dino92_ys](https://www.instagram.com/dino92_ys/)
 ---
