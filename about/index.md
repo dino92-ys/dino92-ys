@@ -7,185 +7,111 @@ comments: false
 <div align="center">
   <h1>이력서 (Resume)</h1>
   <h3>데이터 분석가 · 머신러닝 엔지니어</h3>
-  <p><em>Last Updated: 2025-10-12</em></p>
+  <p><em>Last Updated: 2026-03-04</em></p>
 </div>
 
 ---
 
-## About Me
+# 이영선 (Lee Yeong Seon)
 
-데이터 엔지니어링 실무 경험(5년+)을 바탕으로, **데이터 분석가 · 머신러닝 엔지니어**로 성장하고 있습니다.
+### Data Analyst & BI Engineer | AI/ML 프로젝트 경험
 
-* **데이터 파이프라인 구축 전문가**: ETL, 데이터 표준화, SQL 쿼리 최적화 경험 (140+ 차트 쿼리 작성)
-* **AI/ML 실전 학습**: Kaggle 프로젝트를 통해 NLP, 회귀, 분류 문제 해결 경험 축적 중
-* **비즈니스 임팩트 중심**: 데이터 시각화 및 대시보드 기획으로 의사결정 지원 (11페이지 화면 기획, 121개 차트)
-* **협업 & 커뮤니케이션**: 다양한 고객사 프로젝트에서 원활한 협업 경험
+6년간 데이터 엔지니어링과 BI 개발 경험을 통해 "분석이 가능한 데이터 환경"을 구축해왔습니다.  
+비즈니스 요구사항을 데이터 구조로 해석하고, 의사결정에 필요한 지표를 설계하는 과정에서  
+**"어떤 데이터를, 어떤 기준으로, 왜 보여줘야 하는가"**를 고민해왔습니다.
 
-**목표**: 실무 데이터 처리 역량과 머신러닝 기술을 결합하여, 비즈니스 문제를 AI로 해결하는 **데이터 사이언티스트**
-
----
-
-## Project
-
-### 한국사회보장정보원
-
-* **연계/소속회사**: 씨씨미디어(주)
-* **수행 기간**: 2025.07 - 현재
-* **주요 역할**: DW - 마트 생성 & 보고서 생성
-* **업무 성과**: 54EA 마트 생성 및 보고서 생성
-
-### 한국은행 CBDC 모니터링
-
-* **연계/소속회사**: 씨씨미디어(주)
-* **수행 기간**: 2025.03 - 2025.06
-* **주요 역할**: 모니터링 시스템 구축 및 운영 지원
-
-### 한국환경공단 자동차환경 빅데이터 구축 4차
-
-* **연계/소속회사**: 씨씨미디어(주)
-* **수행 기간**: 2024.06 - 2025.02
-* **주요 역할**: 프로젝트 화면 기획 & SQL 작성
-* **업무 성과**: 11 Page 화면 기획, 121개 차트 SQL 작성 (사용자 편의성 개선을 위한 대시보드 기획 및 구현)
-
-### 한국환경공단 자동차환경 빅데이터 구축 3차
-
-* **연계/소속회사**: 동양시스템즈(주)
-* **수행 기간**: 2023.08 - 2024.06
-* **주요 역할**: Data Stream - ETL, 데이터 표준화, SQL 작성
-* **업무 성과**: 140여 개 차트 쿼리 작성 (표준화 진행으로 데이터 품질 개선)
-
-### NH농협손해보험 농작물 재해 보험 전산 시스템 고도화
-
-* **연계/소속회사**: 동양시스템즈(주)
-* **수행 기간**: 2022.07 - 2022.12
-* **주요 역할**: SAP BI - Visualization(시각화), 쿼리 작성
-* **업무 성과**: 유니버스 41개, 정형 리포트 17개, 비정형 리포트 2개 생성 (데이터 시각화를 통해 보고서 작성 시간 단축 및 의사결정 지원)
-
-### LG 전자 데이터 품질 진단 프로젝트
-
-* **연계/소속회사**: 유니온시스템즈(주)
-* **수행 기간**: 2022.01 - 2022.05
-* **주요 역할**: DQ# - POC & 품질 진단
-* **업무 성과**: 데이터 품질 진단 보고서 작성 및 개선 방안 제시
-
-### SQDA (람보르기니 딜러사)
-
-* **연계/소속회사**: 씨엔케이피(주)
-* **수행 기간**: 2021.07 - 2021.08
-* **주요 역할**: SAP BO - ETL & DATA Migration, JAVA Spring - WEB, SQL 쿼리 수정, DB 관리
-* **업무 성과**: 시스템 이관 및 데이터 정합성 확보
-
-### 한국동서발전
-
-* **연계/소속회사**: 펜타시스템즈/씨엔케이피(주)
-* **수행 기간**: 2021.03 - 2021.06
-* **주요 역할**: Pentaho Spoon 기반 - ETL, TABLEAU - Visualization(시각화)
-* **업무 성과**: 데이터 추출 및 데이터 검증, 대시보드 구축
-
-### 중앙여론심의위원회 유지보수
-
-* **연계/소속회사**: 씨엔케이피(주)
-* **수행 기간**: 2021.02
-* **주요 역할**: EGOV - WEB
-* **업무 성과**: 시스템 안정화 및 사용자 요청사항 처리
-
-### SSCL 유지보수
-
-* **연계/소속회사**: SSCL(포르쉐 딜러사), 한성자동차/씨엔케이피(주)
-* **수행 기간**: 2020.03 - 2021.01
-* **주요 역할**: SAP BO - ETL, SAP BI Tool - Visualization(시각화), JAVA Spring - WEB
-* **업무 성과**: 데이터 처리 자동화 및 시각화 보고서 제공
+현재는 LLM 파인튜닝, RAG 파이프라인 구축, 머신러닝 모델링 등 AI/ML 역량을 확장하며  
+데이터의 전 과정을 이해하고 비즈니스 문제 해결에 기여하는 데이터 전문가로 성장하고 있습니다.
 
 ---
 
-## Studying
+## 핵심 역량 (Core Competencies)
 
-### 🤖 AI/ML Projects
-
-#### 1. Natural Language Processing with Disaster Tweets
-* **Status**: 🔄 진행 중 (고도화 작업 중)
-* **Period**: 2025.07 - 2025.08 (고도화: 2025.10 진행 중)
-* **Tech Stack**: Python, Pandas, NLTK, TensorFlow/PyTorch, LSTM
-* **주요 내용**: 
-  - 트위터 텍스트 기반 실제 재난 여부 이진 분류 문제
-  - 텍스트 전처리 파이프라인 구축 (URL 제거, 토크나이징, 임베딩)
-  - LSTM 기반 딥러닝 모델 설계 및 학습
-  - 오분류 케이스 분석을 통한 모델 개선
-* **주요 성과**: 
-  - 정확도 86.88% 달성 (Train Data 기준)
-  - 비유적 표현 vs 실제 재난 구분을 위한 전처리 전략 수립
-  - False Positive/Negative 패턴 분석 완료
-* **링크**: GitHub | 회고록 *(업데이트 예정)*
+- **데이터 파이프라인**: ETL 프로세스 설계, 데이터 표준화 및 마트 생성 (54개 이상의 DW 마트 구축)
+- **SQL 최적화**: 대규모 데이터 처리 및 리포트 쿼리 성능 튜닝 (140개 이상의 차트 쿼리 작성)
+- **데이터 시각화**: 비즈니스 맥락을 고려한 대시보드 기획 (11개 화면 기획 및 121개 차트 구현)
+- **LLM/RAG**: LoRA 파인튜닝, RAG 파이프라인 구축, 할루시네이션 제어 (엔드투엔드 AI 챗봇 개발)
+- **ML 모델링**: 분류, 회귀, NLP, 딥러닝 등 다양한 도메인의 Kaggle 프로젝트 수행
 
 ---
 
-#### 2. Housing Prices Competition for Kaggle Learn Users
-* **Status**: ⏸️ 고도화 진행 예정 (2025년 10월 4주 시작)
-* **Period**: 2025.06 - 2025.07 (고도화: 2025.10 진행 예정)
-* **Tech Stack**: Python, Pandas, Scikit-learn, XGBoost
-* **주요 내용**: 
-  - 주택 가격 예측 회귀 문제
-  - 피처 엔지니어링 (방 개수, 위치, 연식 등 상호작용 피처 생성)
-  - 다양한 회귀 모델 비교 (Linear Regression, Ridge, Lasso, XGBoost)
-  - 이상치 탐지 및 처리 전략 수립
-* **주요 성과**: 
-  - RMSE 기반 모델 성능 비교 및 최적 모델 선정
-  - 가격 예측 오차가 큰 주택 특성 분석 및 비즈니스 인사이트 도출
-* **링크**: GitHub | 회고록 *(업데이트 예정)*
-* **예상 완료**: 2025년 11월 1주
+## 기술 스택 (Tech Stack)
+
+| 구분          | 상세 내용                                                             |
+| :------------ | :-------------------------------------------------------------------- |
+| **Languages** | Python, Java, SQL                                                     |
+| **Database**  | Oracle, PostgreSQL, EDB, Exasol, Sybase                               |
+| **Data Eng.** | ETL, Data Mart, Pentaho Spoon, SAP BO                                 |
+| **BI & Viz**  | SAP BI/BO, Tableau, UbiReport, 대시보드 기획                          |
+| **AI / ML**   | Scikit-Learn, XGBoost, TensorFlow, PyTorch, Pandas, NumPy             |
+| **LLM / RAG** | LoRA Fine-tuning(MLX), Ollama, ChromaDB, bge-m3, FastAPI, HuggingFace |
+| **Tools**     | Git/GitHub, Jupyter Notebook, DBeaver                                 |
 
 ---
 
-#### 3. Titanic - Machine Learning from Disaster
-* **Status**: ⏸️ 재정리 예정 (2025년 11월 2주 시작)
-* **Period**: 2025.06 - 2025.07 (고도화: 2025.10 말 진행 예정)
-* **Tech Stack**: Python, Pandas, Scikit-learn, Logistic Regression, Random Forest
-* **주요 내용**: 
-  - 타이타닉 승객 생존 여부 예측 이진 분류 문제
-  - 결측치 처리 전략 수립 (Age, Cabin 등)
-  - 생존 요인 분석 및 시각화 (성별, 등급, 나이별 생존율)
-  - 로지스틱 회귀 vs 랜덤 포레스트 성능 비교
-* **주요 성과**: 
-  - 정확도 80.58% 달성 (Train Data 기준)
-  - "여성과 어린이 먼저" 규칙의 데이터 기반 검증
-  - 클래스 불균형 처리 및 평가 지표 선정 (Accuracy vs F1-Score)
-* **링크**: GitHub | 회고록 *(업데이트 예정)*
-* **예상 완료**: 2025년 11월 2주
+## AI/ML 프로젝트 (Projects)
+
+### 🍪 위니쿠키 쿠키가게 AI 챗봇 | [Repository](https://github.com/dino92-ys/cookie_chatbot)
+
+> 실제 쿠키가게를 위한 고객 응대용 AI 챗봇 — LLM 파인튜닝부터 배포까지 엔드투엔드 개발
+
+- **LoRA Fine-tuning**: Bllossom-3B 모델을 Apple Silicon(M4 Pro)에서 MLX 기반으로 파인튜닝
+- **RAG Pipeline**: ChromaDB + bge-m3 임베딩 + FastAPI 서버 구축
+- **할루시네이션 제어**: 유사도 임계값 필터링(distance ≤ 0.45) + 명시적 부정 지식 설계
+- **배포**: Discord 봇 연동, python-dotenv 기반 보안 관리
+- **핵심 인사이트**: 3B 소형 모델에서 파인튜닝만으로는 사실 정확도가 낮아, RAG와 명시적 부정 지식 조합이 필수적임을 검증
+
+`MLX` `LoRA` `Bllossom-3B` `ChromaDB` `bge-m3` `FastAPI` `Ollama` `Discord.py`
 
 ---
 
-### 📚 Additional Learning Experience
-* **기타 프로젝트**: Fashion-MNIST (컴퓨터 비전), Space Titanic (분류) 등 총 5개 이상의 Kaggle 대회 참여
-* **학습 영역**: 분류(Classification), 회귀(Regression), NLP, 컴퓨터 비전 등 다양한 머신러닝 도메인 경험
-* **지속적 학습**: 데이터 전처리, 피처 엔지니어링, 모델 튜닝, 성능 평가 등 ML 파이프라인 전반에 대한 실습 진행
+### 📊 Kaggle 머신러닝 프로젝트 | [Repository](https://github.com/dino92-ys/kaggle-projects)
+
+> 분류, 회귀, NLP, 딥러닝 등 다양한 도메인의 머신러닝 프로젝트 포트폴리오
+
+| 프로젝트              | 유형   | 주요 내용                                                          |
+| :-------------------- | :----- | :----------------------------------------------------------------- |
+| **Titanic**           | 분류   | 로지스틱 회귀, 랜덤 포레스트를 활용한 생존 예측 및 피처 엔지니어링 |
+| **House Price**       | 회귀   | XGBoost 기반 주택 가격 예측, 결측치 처리 및 피처 선택 최적화       |
+| **Spaceship Titanic** | 분류   | 복합 피처 엔지니어링 및 앙상블 모델 비교                           |
+| **Disaster Tweets**   | NLP    | 텍스트 분류 모델링, TF-IDF 및 전처리 파이프라인 구축               |
+| **Fashion MNIST**     | 딥러닝 | CNN 모델 설계 및 이미지 분류                                       |
+
+`Scikit-Learn` `XGBoost` `TensorFlow` `PyTorch` `Pandas` `NumPy`
 
 ---
 
-## Education
+## 실무 경력 (Professional Experience)
 
-* **학점 은행제 - 컴퓨터 공학** (4.1/4.5)
-  * 졸업: 2022.08
-* **조선대학교 - 법학과** (3.4/4.5)
-  * 졸업: 2017.09
-
----
-
-## Certificates
-
-* 정보처리기사
-* SQLD
-* DAsP
+| 기간              | 프로젝트                  | 주요 역할                     | 성과                                |
+| :---------------- | :------------------------ | :---------------------------- | :---------------------------------- |
+| 2025.07 ~ 현재    | 한국사회보장정보원        | 데이터 마트 생성, 보고서 개발 | 54개 마트 구축, 보고서 수정 및 생성 |
+| 2025.03 ~ 2025.06 | 한국은행 CBDC 모니터링    | 시스템 모니터링               | 실시간 모니터링 수행                |
+| 2024.06 ~ 2025.02 | 한국환경공단 빅데이터 4차 | 대시보드 기획, SQL 작성       | 11개 대시보드, 121개 차트 쿼리      |
+| 2023.08 ~ 2024.06 | 한국환경공단 빅데이터 3차 | ETL 설계, 데이터 표준화       | 140개 차트 쿼리, 데이터 표준화      |
+| 2022.07 ~ 2022.12 | NH농협손해보험            | 데이터 시각화, 쿼리 작성      | 41개 유니버스, 17개 정형 리포트     |
+| 2022.01 ~ 2022.05 | LG전자 데이터 품질 진단   | 품질 진단, POC 수행           | 품질 진단 보고서 작성               |
+| 2021.03 ~ 2021.06 | 한국동서발전              | ETL, 데이터 시각화            | 데이터 수집/변환/적재 및 검증       |
+| 2020.03 ~ 2021.01 | SSCL(포르쉐 딜러사)       | ETL, 시각화, 웹 개발          | 시각화 보고서 및 웹 개발            |
 
 ---
 
-## Algorithm Practice (백준)
+## 자격증 및 교육
+
+- **데이터아키텍처 준전문가 (DAsP)** — 한국데이터산업진흥원 (2022.12)
+- **SQL 개발자 (SQLD)** — 한국데이터산업진흥원 (2021.06)
+- **정보처리기사** — 한국산업인력공단 (2019.10)
+- **컴퓨터공학 학사** — 학점은행제 (GPA 4.1/4.5)
+- **알고리즘**: 백준 Online Judge ([bbd132](https://solved.ac/bbd132))
+
+---
+
+## Contact & Links
+
+- **Email**: dldudtjs96@naver.com
+- **Blog**: [dino92-ys.github.io](https://dino92-ys.github.io/dino92-ys/about/)
+- **GitHub**: [github.com/dino92-ys](https://github.com/dino92-ys)
+
+<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bbd132)](https://solved.ac/bbd132)
-
----
-
-## Contact
-* **Email**: dldudtjs96@naver.com
-* **GitHub**: [github.com/dino92-ys](https://github.com/dino92-ys)
-* **Instagram**: [instagram.com/dino92_ys](https://www.instagram.com/dino92_ys/)
----
