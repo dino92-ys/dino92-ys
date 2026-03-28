@@ -95,8 +95,8 @@
 ## Contact & Links
 
 - **Email**: dldudtjs96@naver.com
-- **Blog**: [dino92-ys.github.io](https://dino92-ys.github.io/dino92-ys/about/)
-- **GitHub**: [github.com/dino92-ys](https://github.com/dino92-ys)
+- **Blog**: https://dino92-ys.github.io
+- **GitHub**: https://github.com/dino92-ys
 
 <br>
 
